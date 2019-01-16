@@ -25,7 +25,8 @@ sp (>= 1.3-1),
 stringr (>= 1.3.0),
 tibble(>= 2.0.0),
 tidyr (>= 0.8.0),
-utils
+utils,
+xml2 (>= 1.2.0)
 ```
 
 After that please remove this package by running following code:
